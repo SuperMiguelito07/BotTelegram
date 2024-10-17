@@ -1,0 +1,22 @@
+{
+    "7212919849": {
+        "salary": -112.0,
+        "ingresos": 0,
+        "estalvi": 112.0,
+        "despeses": 0,
+        "quotes": 0,
+        "gastos_diaris": 0,
+        "ganancies_esporadiques": 0,
+        "ganancies_mensuals": 0
+    },
+    "1291605260": {
+        "salary": 1100.0,
+        "ingresos": 1700.0,
+        "estalvi": 300.0,
+        "despeses": 300.0,
+        "quotes": 300.0,
+        "gastos_diaris": 0,
+        "ganancies_esporadiques": 150.0,
+        "ganancies_mensuals": 1550.0
+    }
+}
